@@ -1,6 +1,6 @@
 # USC CSCI526 Android Card Game -- Gladiator
 
-Website: http://lyzinskeyhostingpackage-com.stackstaging.com/csci526/examples/
+Website: http://www-scf.usc.edu/~yanzhili/cs526/examples/csci526.html
 
 Trailer: https://www.youtube.com/watch?v=MeuWIWRu340
 
